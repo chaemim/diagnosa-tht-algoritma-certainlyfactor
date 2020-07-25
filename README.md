@@ -1,5 +1,5 @@
-# cf-exavator
-WebApp Sistem Pakar Diagnosa Alat Berat Exavator dengan Metode CF
+# cf-tht
+WebApp Sistem Pakar Diagnosa Penyakit THT dengan Metode CF
 
 ## Install
 * Clone or (Download dan Extract) 
